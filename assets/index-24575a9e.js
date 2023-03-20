@@ -1,0 +1,1 @@
+import{_ as n}from"./TabBar-e10439b3.js";import{b as o,c as t,d as r,e,F as _}from"./index-e53208be.js";const i={__name:"index",setup(c){return(s,m)=>{const a=o("van-nav-bar");return t(),r(_,null,[e(a,{title:"在线学习",fixed:"",placeholder:""}),e(n)],64)}}};export{i as default};
