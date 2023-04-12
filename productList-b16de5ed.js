@@ -1,0 +1,1 @@
+import{C as u,h as t}from"./index-bbfac4a2.js";var i=(o=>(o[o.Add_Goods=0]="Add_Goods",o[o.Editor_Goods=1]="Editor_Goods",o))(i||{});const l=u("product",()=>{const o=t(),r=t(""),d=t(0);function s(e,a,c){o.value=c,d.value=e,r.value=a}return{goodsModel:o,pageType:d,title:r,setStoreData:s}});export{i as P,l as u};

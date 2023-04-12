@@ -1,0 +1,1 @@
+const t={listData:"/product/listdata",listSearch:"/product/listSarch",listDelete:"/product/listdelete",goodsType:"/product/list/addproduct/goodstype",addGoods:"/product/list/addGoods",category:"/product/category",addCtegory:"/product/addCategory",updataCtegory:"/product/updataCategory",deleteCategory:"/product/deleteCategory"},d=t;export{d as c};
