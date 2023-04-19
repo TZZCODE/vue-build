@@ -1,0 +1,1 @@
+import{J as n,n as t}from"./index-9e02f54d.js";var u=(o=>(o[o.Add_Goods=0]="Add_Goods",o[o.Editor_Goods=1]="Editor_Goods",o))(u||{});const l=n("product",()=>{const o=t(),r=t(""),d=t(0);function s(e,a,c){o.value=c,d.value=e,r.value=a}return{goodsModel:o,pageType:d,title:r,setStoreData:s}});export{u as P,l as u};
